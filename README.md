@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I`m Kozord123</h1>
 <h3 align="center">I`m JavaScript Developer from Poland</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Kozord123/Kozord123/assets/134543358/3ca62e66-a585-461c-878f-5d7e4b10603a)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kozord123&label=Profile%20views&color=0e75b6&style=flat" alt="kozord123" /> </p>
 
