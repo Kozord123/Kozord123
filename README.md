@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I`m Kozord123</h1>
 <h3 align="center">I`m JavaScript Developer from Poland</h3>
 
-<a href="https://shirumii.xyz"><img src="https://img.shields.io/badge/os-Windows%2010-slateblue"></a> <a href="https://discord.com/users/1067057006994788354"><img src="https://img.shields.io/badge/ヴぇしぇ%230001-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://shirumii.xyz"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/shirumii"><img src="https://komarev.com/ghpvc/?username=shirumii"></a>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kozord123&label=Profile%20views&color=0e75b6&style=flat" alt="kozord123" /> </p>
 
