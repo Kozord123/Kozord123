@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Js,Java,Html,CSS**
 
-- 📫 How to reach me **dc.TorchCode.pl**
+- 📫 How to reach me **On my Discord server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
