@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **On my Discord server**
 
+- ![My Discord](https://discord-readme-badge.vercel.app/api?id=<604718412740034635>)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/kqQ3vpQgMW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kqQ3vpQgMW" height="30" width="40" /></a>
@@ -27,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kozord123&show_icons=true&locale=en" alt="kozord123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kozord123&" alt="kozord123" /></p>
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<604718412740034635>)
