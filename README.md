@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kozord123&show_icons=true&locale=en" alt="kozord123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kozord123&" alt="kozord123" /></p>
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<604718412740034635>)
