@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **On my Discord server**
 
-- ![839432085856583730](https://discord-readme-badge.vercel.app/api?id=<604718412740034635>)
+- ![839432085856583730](https://discord-readme-badge.vercel.app/api?id=604718412740034635)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
