@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I`M Kozord123</h1>
 <h3 align="center">I`m Developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Kozord123/Kozord123/assets/134543358/acaa7674-165a-41a5-87b6-4073f2252644)
-">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/pl/view/coding-gif-24090007">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kozord123&label=Profile%20views&color=0e75b6&style=flat" alt="kozord123" /> </p>
 
