@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I`M Kozord123</h1>
 <h3 align="center">I`m Developer from Poland</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2ybAPFXV0qJN48948haW8S&ust=1699039957078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDIlpqHpoIDFQAAAAAdAAAAABAF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kozord123&label=Profile%20views&color=0e75b6&style=flat" alt="kozord123" /> </p>
 
