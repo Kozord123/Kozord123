@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I`M Kozord123</h1>
 <h3 align="center">I`m Developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2ybAPFXV0qJN48948haW8S&ust=1699039957078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDIlpqHpoIDFQAAAAAdAAAAABAF">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966F">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kozord123&label=Profile%20views&color=0e75b6&style=flat" alt="kozord123" /> </p>
 
