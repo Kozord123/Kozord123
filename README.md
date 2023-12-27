@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Torchcode](https://dc.Torchcode.pl)
 
-- 🌱 I’m currently learning **Kotlin,Java,Vue.js**
+- 🌱 I’m currently learning **Java**
 
 - ⚡My Portfolio [https://kozord123.github.io/portfolio/](https://kozord123.github.io/portfolio/)
 
