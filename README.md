@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- ⚡My Portfolio [https://kozord123.github.io/portfolio/](https://kozord123.github.io/portfolio/)
-
 - 💬 Ask me about **Js,Html,CSS,Bootstrap,Nodejs**
 
 - 📫 How to reach me **On my Discord Server**
