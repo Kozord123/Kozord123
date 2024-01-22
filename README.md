@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kozord123&label=Profile%20views&color=0e75b6&style=flat" alt="kozord123" /> </p>
 
-- 🔭 I’m currently working on [TORCHMC.PL](discord.gg/torchmc)
+- 🔭 I’m currently working on [TORCHMC.PL](https://discord.gg/torchmc)
 
 - 🔭 I’m currently working in [MagicSolutions.pl](https://dc.magicsolutions.pl)
 
